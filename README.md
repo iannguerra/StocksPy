@@ -1,0 +1,2 @@
+# StocksPy
+Stocks trader 
